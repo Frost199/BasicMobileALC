@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ALC4</string>
+    <string name="welcome_title">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="profile_name">Emmanuel Maduabuchi Eleam</string>
+</resources>
